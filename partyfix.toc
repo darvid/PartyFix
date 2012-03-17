@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Party Bug Fixer
+## Notes: cptwaffles worst doorid
+## Author: dave
+partyfix.lua
